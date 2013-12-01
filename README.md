@@ -10,7 +10,7 @@ G.Hog.Runner is a fun casual 2D runner made in Unity.  I admittedly was not able
 Gameplay is very straight forward. You are a groundhog who can switch between summer (upper level)
 and fall (lower level) as well as jump in order to avoid obstacles. Controls are as follows:
 
-W - jump
+W - jump  
 E - swap sides
 
 If you die, just press R to restart. The game increases pace and obstacle density over time for added difficulty.
