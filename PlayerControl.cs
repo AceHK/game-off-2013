@@ -289,7 +289,7 @@ public class PlayerControl : MonoBehaviour
 		// if player is dead, show restart menu
 		if (isDead && showGUI)
 		{
-			GUI.Label( new Rect(400, 200, 200, 20),  "Total Distance:  " + completedDistance.ToString("f0") + "m");
+			GUI.Label( new Rect(400, 80, 200, 20),  "Total Distance:  " + completedDistance.ToString("f0") + "m");
 			restartGUI.enabled = true;
 
 			if ( Input.GetKeyUp(KeyCode.R))
