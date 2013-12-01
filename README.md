@@ -2,7 +2,7 @@
 
 ## G.Hog.Runner
 
-[Play G.Hog.Runner](http://dl.dropboxusercontent.com/u/193868636/GHogRunnerv001/GHogRunnerv001.html)
+[**Play G.Hog.Runner**](http://dl.dropboxusercontent.com/u/193868636/GHogRunnerv001/GHogRunnerv001.html)
 
 G.Hog.Runner is a fun casual 2D runner made in Unity.  I admittedly was not able to work on this until the last few days of the competition, but I'm quite happy with the end product.  I usually struggle (fail) to finish gameJams in time, and I'm glad I was able to submit a somewhat complete end product this time without sacfiricing my high standards.
 
